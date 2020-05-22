@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LexmarkFoIPSettingsMgr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LexmarkFoIPSettingsMgr_jar</output-path>
+    <root id="archive" name="LexmarkFoIPSettingsMgr.jar">
+      <element id="module-output" name="LexmarkFoIPSettingsMgr" />
+      <element id="module-output" name="Base" />
+    </root>
+  </artifact>
+</component>

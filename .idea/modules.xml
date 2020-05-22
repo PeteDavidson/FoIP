@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FWLinks/FWLinks.iml" filepath="$PROJECT_DIR$/FWLinks/FWLinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoIP.iml" filepath="$PROJECT_DIR$/FoIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoIPLicenseSales/FoIPLicenseSales.iml" filepath="$PROJECT_DIR$/FoIPLicenseSales/FoIPLicenseSales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LexmarkFoIPSettingsMgr/LexmarkFoIPSettingsMgr.iml" filepath="$PROJECT_DIR$/LexmarkFoIPSettingsMgr/LexmarkFoIPSettingsMgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Provisioner/Provisioner.iml" filepath="$PROJECT_DIR$/Provisioner/Provisioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/Tests.iml" filepath="$PROJECT_DIR$/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etherFAXList/etherFAXList.iml" filepath="$PROJECT_DIR$/etherFAXList/etherFAXList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

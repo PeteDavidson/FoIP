@@ -1,0 +1,6 @@
+# License for DEMO TestHost
+INCREMENT BSS.LES-FaxOverIP.Primary lexmark 1.00000 28-jun-2018 \
+	uncounted HOSTID=DEMO ISSUER="Lexmark International Inc." \
+	ISSUED=30-mar-2018 NOTICE="For evaluation use only." TS_OK \
+	SIGN="00BA 4B2C 920D D3C4 1AA3 DB7C 1A0F BE00 9BBD 70B1 9220 \
+	CFD0 976D B423 337B"

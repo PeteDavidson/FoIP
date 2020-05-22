@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Provisioner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Provisioner_jar</output-path>
+    <root id="archive" name="Provisioner.jar">
+      <element id="module-output" name="Provisioner" />
+      <element id="module-output" name="Base" />
+    </root>
+  </artifact>
+</component>
